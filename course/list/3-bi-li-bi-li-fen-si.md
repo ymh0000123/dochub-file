@@ -2,7 +2,7 @@
 
 # 准备工作
  1. 一个金山文档账号
-
+# 开始
 1. 打开[金山文档](https://www.kdocs.cn/)官网
 登录之后点击左上角的【新建】
 选择【Office文档】-> 【表格】
@@ -13,7 +13,7 @@
 <img src="https://slink.ltd/raw.githubusercontent.com/ymh0000123/tu/main/2.png"  />
 3. 复制以下代码
 ```JavaScrip
-llet fs;
+let fs;
 let smtp_host = Application.Range("G2").Text;
 let smtp_port = parseInt(Application.Range("G3").Text);
 let smtp_username = Application.Range("G4").Text;
