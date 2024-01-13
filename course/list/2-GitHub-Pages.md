@@ -1,10 +1,7 @@
-<!--
- $ @Date: 2023-10-28 16:35:56
- $ @LastEditors: Please set LastEditors
- $ @LastEditTime: 2023-10-28 17:11:08
- $ @FilePath: \undefinedd:\VuePress\3\dochub\docs\course\list\2-GitHub-Pages.md
--->
 # 使用GitHub Pages免费搭建自己的网站
+
+## 视频教程
+<BiliBili bvid="BV1hC4y1n7oQ" />
 
 ## 准备工作
  1. 一个GitHub账号
